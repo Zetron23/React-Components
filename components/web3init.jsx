@@ -33,7 +33,7 @@ const FUNC_NAME = ({ walletConnected }) => {
 
   return (
     <div>
-      <h2>Manufacture Medicine</h2>
+      <h2>TITLE</h2>
       {walletConnected ? (
         <>RETURN COMPONENT</>
       ) : (
